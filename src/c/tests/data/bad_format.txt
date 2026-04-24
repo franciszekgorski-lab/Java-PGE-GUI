@@ -1,0 +1,3 @@
+edge 1 2 1.0
+edge 2 3 bad_weight
+edge 3 4 1.5
